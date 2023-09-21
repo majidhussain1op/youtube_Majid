@@ -1,7 +1,7 @@
 
 function App() {
   return (
-   <h1>Majid with react</h1>
+   <h1>This is my first project | Majid Hussain Meerani</h1>
   );
 }
 
