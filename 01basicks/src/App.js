@@ -1,7 +1,10 @@
-
+import Tea from './Tea'
 function App() {
-  return (
+  return  (
+    <>
+    <Tea />
    <h1>This is my first project | Majid Hussain Meerani</h1>
+   </>
   );
 }
 
